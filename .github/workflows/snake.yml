@@ -1,12 +1,9 @@
 name: Update Space Shooter Game
 
 on:
-  # Jalankan otomatis setiap hari pukul 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
-  # Bisa dijalankan manual dari tab Actions
   workflow_dispatch:
-  # Otomatis jalan saat ada push ke branch main
   push:
     branches:
       - main
@@ -17,23 +14,24 @@ permissions:
 jobs:
   update-game:
     name: Generate space shooter animation
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Space Shooter GIF
-        uses: czl9707/gh-space-shooter@v2
+      - name: Generate Space Shooter / Snake GIF
+        uses: Platane/snk/svg-only@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: LrRyPa
-          output-path: "dist/game.gif"
-          strategy: "random"
-          fps: 40
+          github_user_name: LrRyPa
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated game GIF to output branch
+      - name: Push generated GIF to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
