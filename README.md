@@ -1,6 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Title -->
+  <img src="assets/workspace.gif" alt="Pixel Art Workspace" width="420"/>
   <h1>Hi there, I'm <a href="https://github.com/LrRyPa">Larry Polin Anugrah</a> 👋</h1>
   <p> <strong>Information Systems Student at Mulawarman University</strong></p>
 
