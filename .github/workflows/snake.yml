@@ -27,5 +27,5 @@ jobs:
           username: LrRyPa
           output-path: 'game.gif'
           strategy: 'random'
-          fps: 40
+          fps: 60
           no-amend: true  
