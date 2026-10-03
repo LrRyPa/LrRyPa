@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # Penting untuk histori git commit
+          fetch-depth: 2  
 
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@v2
@@ -28,4 +28,4 @@ jobs:
           output-path: 'game.gif'
           strategy: 'random'
           fps: 25
-          no-amend: true  # Mengabaikan amend commit agar langsung push commit baru
+          no-amend: true  
