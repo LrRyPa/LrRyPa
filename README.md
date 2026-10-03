@@ -61,18 +61,10 @@
 
 ---
 
-### 👾 Pacman Contribution Graph
+### Contribution Graph
 
 <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LrRyPa/LrRyPa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LrRyPa/LrRyPa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LrRyPa/LrRyPa/output/github-contribution-grid-snake.svg">
-  </picture>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/LrRyPa/LrRyPa/output/game.gif" alt="Space Shooter Game" style="image-rendering: pixelated; width: 100%; max-width: 700px;" />
-  </div>
+  <img src="https://raw.githubusercontent.com/LrRyPa/LrRyPa/main/game.gif" alt="Space Shooter Game" style="image-rendering: pixelated; width: 100%; max-width: 700px;" />
 </div>
 
 ---
