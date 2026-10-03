@@ -1,36 +1,79 @@
-<!-- HEADER & ANIMATED BANNER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="AI Neural Network Header"/>
+
+  <!-- Header Banner / Title -->
+  <h1>Hi there, I'm <a href="https://github.com/LrRyPa">Larry Polin Anugrah</a> 👋</h1>
+  <p> <strong>Information Systems Student at Mulawarman University</strong></p>
+
+  <p>
+     Aspiring <b>Data Scientist</b> & <b>Machine Learning Engineer</b> | 📊 Data Enthusiast
+  </p>
+
+  <!-- Dynamic Typing / Badges -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vcenter=true&width=500&lines=Information+Systems+Student;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+%26+Data+Pipelines" alt="Typing SVG" />
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🏫 **Education:** Information Systems Undergraduate at **Universitas Mulawarman**
+- 🎯 **Focus Area:** Data Science, Machine Learning, & Predictive Analytics
+- 🛠️ **Current Activities:** Building end-to-end data pipelines, ML models, and interactive analytics apps
+- 📬 **Reach Me:** Feel free to connect for collaborations or data discussions!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Data Manipulation**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Machine Learning & Data Science Tools**
+<p>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orange_Data_Mining-FF6B6B?style=for-the-badge&logo=orange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Interactive Stats
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LrRyPa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=Larry+Polin+Anugrah;Data+Scientist+%26+ML+Engineer;Building+Intelligent+Data+Pipelines;Predictive+Analytics+%26+Cloud+AI" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <i>"Transforming raw data into actionable business insights & training scalable machine learning models."</i>
-  </p>
-
-  <!-- Status Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Data%20Science-00F2FE?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Role-Google%20Cloud%20Arcade%20Facilitator%202026-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  </p>
 </div>
 
-<br />
+---
 
-<!-- ABOUT ME -->
-<h3>🤖 About Me</h3>
+### 👾 Pacman Contribution Graph
 
-```json
-{
-  "name": "Larry Polin Anugrah",
-  "role": "Data Scientist & Cloud Engineering Enthusiast",
-  "education": "Information Systems @ Universitas Mulawarman",
-  "cohort": "Asah Dicoding Data Scientist Cohort",
-  "expertise": ["Machine Learning", "NLP", "ETL Pipelines", "Cloud Analytics"],
-  "current_focus": "Predictive Analytics & AWS Bedrock Integration"
-}
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LrRyPa/LrRyPa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LrRyPa/LrRyPa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LrRyPa/LrRyPa/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+---
+
+<p align="center">
+  <i> Thanks for stopping by! </i>
+</p>
