@@ -25,7 +25,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: LrRyPa
-          output-path: 'game.gif'
+          output-path: 'assets/game.gif'
           strategy: 'random'
           fps: 60
           no-amend: true  
