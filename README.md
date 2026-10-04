@@ -46,8 +46,6 @@
 
 ---
 
-### Contribution Graph
-
 <div align="center">
   <img src="assets/game.gif" alt="Space Shooter Game" style="image-rendering: pixelated; width: 100%; max-width: 700px;" />
 </div>
