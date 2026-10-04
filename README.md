@@ -6,24 +6,23 @@
   <p> <strong>Information Systems Student at Mulawarman University</strong></p>
 
   <p>
-     Aspiring <b>Data Scientist</b> & <b>Machine Learning Engineer</b> | 📊 Data Enthusiast
+     Aspiring <b>Data Scientist</b> & <b>Machine Learning Engineer</b> 
   </p>
 
-  <!-- Dynamic Typing / Badges -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vcenter=true&width=500&lines=Information+Systems+Student;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+%26+Data+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vcenter=true&width=500&lines=Information+Systems+Student;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;" alt="Typing SVG" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me 👨‍💻
 
-- 🏫 **Education:** Information Systems Undergraduate at **Universitas Mulawarman**
-- 🎯 **Focus Area:** Data Science, Machine Learning, & Predictive Analytics
-- 🛠️ **Current Activities:** Building end-to-end data pipelines, ML models, and interactive analytics apps
-- 📬 **Reach Me:** Feel free to connect for collaborations or data discussions!
+-   **Education:** Information Systems Undergraduate at **Universitas Mulawarman**
+-   **Focus Area:** Data Science, Machine Learning, & Predictive Analytics
+-   **Current Activities:** Building end-to-end data pipelines, ML models, and interactive analytics apps
+-   **Reach Me:** Feel free to connect for collaborations or data discussions!
 
 ---
 
@@ -45,19 +44,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-
----
-
-### 📈 GitHub Interactive Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LrRyPa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-
-</div>
 
 ---
 
