@@ -29,3 +29,9 @@ jobs:
           strategy: 'random'
           fps: 60
           no-amend: true  
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update space shooter contribution GIF"
+          file_pattern: 'assets/game.gif'
